@@ -4,11 +4,12 @@
 - In addition, I have knowledge in Software Engineering (Problem Solver, Algorithem Designer)
 
 ## Hackathons
-- Greatminds 4# - [Medical-X](https://github.com/matan1346/Medical-X)
 - Greatminds 5# - [BookShot](https://github.com/nbarkoch/BookShot_alpha)
+- Greatminds 4# - [Medical-X](https://github.com/matan1346/Medical-X)
+
 #
-- 👯 I’m looking for a student position/internship.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/matan-omesi/), [Gmail](matan.omesi@gmail.com)
+👯 I’m looking for a student position/internship.
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/matan-omesi/), [Gmail](matan.omesi@gmail.com)
 
 
 Feel free to contact me or just have a look at my GitHub 😄
