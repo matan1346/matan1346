@@ -1,4 +1,4 @@
-### Hi 👋. my name is Matan Omesi
+### Hi there 👋, my name is Matan Omesi
 - I'm a third year student, learning Computer Science.
 - I have an exprerience in Full Stack development (Angular, C#)
 - In addition, I have knowledge in Software Engineering (Problem Solver, Algorithem Designer)
