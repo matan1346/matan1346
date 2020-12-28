@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Matan Omesi
 - I'm a third year student, learning Computer Science.
 - I have an exprerience in Full Stack development (Angular, C#)
-- In addition, I have knowledge in Software Engineering (Problem Solver, Algorithem Designer)
+- In addition, I have knowledge in Software Engineering (Problem Solver, Algorithem Designer -> Python, C++, Java, Unix, Design Patterns)
 
 ## Hackathons
 - Greatminds 5# - [BookShot](https://github.com/nbarkoch/BookShot_alpha)
