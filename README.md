@@ -4,8 +4,8 @@
 - In addition, I have knowledge in Software Engineering (Problem Solver, Algorithem Designer -> Python, C++, Java, Unix, Design Patterns)
 
 ## Hackathons
-- Greatminds 5# - [BookShot](https://github.com/nbarkoch/BookShot_alpha)
-- Greatminds 4# - [Medical-X](https://github.com/matan1346/Medical-X)
+- Greatminds 5# (December 2020) - [BookShot](https://github.com/nbarkoch/BookShot_alpha)
+- Greatminds 4# (December 2019) - [Medical-X](https://github.com/matan1346/Medical-X)
 
 #
 👯 I’m looking for a student position/internship.
