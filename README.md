@@ -10,7 +10,7 @@
 #
 👯 I’m looking for a student position/internship.
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/matan-omesi/), [Gmail](matan.omesi@gmail.com)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/matan-omesi/), [Gmail](mailto:matan.omesi@gmail.com)
 
 
 Feel free to contact me or just have a look at my GitHub 😄
