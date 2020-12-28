@@ -1,12 +1,12 @@
 ### Hi 👋. my name is Matan Omesi
-I'm a third year student, learning Computer Science.
-I have an exprerience in Full Stack development (Angular, C#)
-In addition, I have knowledge in Software Engineering (Problem Solver, Algorithem Designer)
+- I'm a third year student, learning Computer Science.
+- I have an exprerience in Full Stack development (Angular, C#)
+- In addition, I have knowledge in Software Engineering (Problem Solver, Algorithem Designer)
 
 ## Hackathons
 - Greatminds 4# - [Medical-X](https://github.com/matan1346/Medical-X)
 - Greatminds 5# - [BookShot](https://github.com/nbarkoch/BookShot_alpha)
-
+#
 - 👯 I’m looking for a student position/internship.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/matan-omesi/), [Gmail](matan.omesi@gmail.com)
 
