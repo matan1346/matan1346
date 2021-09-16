@@ -2,7 +2,7 @@
 - I have an exprerience in Full Stack development (Angular, C#)
 - In addition, I have knowledge in Software Engineering (Problem Solver, Algorithem Designer -> Python, C++, Java, Unix, Design Patterns)
 
-## Excellentean in Acadaemy (BootCamp :computer:)
+## Excellenteam in Academy (BootCamp :computer:)
 :heavy_check_mark: Google Project       - [AutoComplete](https://github.com/matan1346/GoogleAutoComplete)  
 :heavy_check_mark: Telegram Project     - [Phisto Bot](https://github.com/matan1346/PhistoBot)  
 :heavy_check_mark: Mobileye Project     - [Traffic Lights Detection](https://github.com/matan1346/Mobileye-Traffic-Lights-Detection)  
