@@ -14,7 +14,6 @@
 - Greatminds 4# (December 2019) - [Medical-X](https://github.com/matan1346/Medical-X)
 
 #
-⚡ I’m looking for a full time position.
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/matan-omesi/), [Gmail](mailto:matan.omesi@gmail.com)
 
